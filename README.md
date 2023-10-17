@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm vBloxx Inc,</h1>
-<h3 align="center">vBloxx stands as an emerging software development company, renowned for its specialized solutions and consulting services tailored to various industries. Our commitment lies in providing your business with exceptional software solutions that not only outpace the competition but also cater to your unique business needs.</h3>
+<h1 align="center">Hi 👋, I'm vBloxx Inc</h1>
+<p align="center">vBloxx stands as an emerging software development company, renowned for its specialized solutions and consulting services tailored to various industries. Our commitment lies in providing your business with exceptional software solutions that not only outpace the competition but also cater to your unique business needs.</p>
 
 - Our Website is [vbloxx.io](vbloxx.io)
 
